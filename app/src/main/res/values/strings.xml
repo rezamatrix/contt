@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">test 5</string>
+    <string name="unit_prompt">Select a unit</string>
+    <string name="button">Button</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="textview">TextView</string>
+
+
+    <string-array name="unit_arrays">
+        <item>inch</item>
+        <item>cm</item>
+        <item>km</item>
+        <item>meter</item>
+    </string-array>
 </resources>
